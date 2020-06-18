@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TAP Unidad 5 Resistencias</string>
+    <string name="title">Calculadora de resistencia</string>
+    <string name="code">Elija el color de cada barra</string>
+    <string name="ohm">Ohm:  </string>
+    <string name="percentage">Tolerancia:  </string>
+</resources>
